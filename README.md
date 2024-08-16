@@ -56,8 +56,4 @@ The model was evaluated on the dataset, and the results indicate that the Logist
 
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
